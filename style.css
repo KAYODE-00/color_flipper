@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+button{
+    margin: 5px;
+    width: 75px;
+    border: 1px solid;
+    border-color: none;
+    border-radius: 2px;
+    padding: 2px 2px;
+    border-radius: 5px;
+}
+#green{
+background-color: #21b021;
+}
+#red{
+    background-color: red;
+}
+#blue{
+background-color: blue;
+}
